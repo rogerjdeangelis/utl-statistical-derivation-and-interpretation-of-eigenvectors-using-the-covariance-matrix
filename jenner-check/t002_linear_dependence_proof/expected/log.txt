@@ -1,0 +1,11 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA _null_
+
+coef_v11_equ1=0.6397438 = coef_v11_equ2=0.6397438
+coef_v21_equ1=-0.7731685771518828 = coef_v21_equ2=-0.7731685771518827
+0.6397438-1.2085597033560667-0.7731685771518827
+
+NOTE: Wrote _null_ (0 rows, 0 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds

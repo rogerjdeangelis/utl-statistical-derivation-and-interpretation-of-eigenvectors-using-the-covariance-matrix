@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_linear_dependence_proof",
+  "source_file": "Breadcrumbsutl-statistical-derivation-and-interpretation-of-eigenvectors-using-the-covariance-matrix.sas",
+  "source_blob_sha": "025166bcee8d39240e613af272f611d2be75ca44",
+  "source_commit": "dcd990bb366b4b3b33a216bd4eaa7d0f40c0b100",
+  "notes": "Verbatim data _null_ block proving the two eigenvector equations are linearly dependent for e1 (F=b/(a-e1)); hardcoded literals, no external data; matches the author's documented coefficient equality."
+}
