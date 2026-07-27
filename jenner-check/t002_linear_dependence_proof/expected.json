@@ -1,0 +1,18 @@
+{
+  "_captured_at": "2026-07-27T21:44:47.825452+00:00",
+  "_captured_run_id": "r_0c5fdd4ada8e497191c55e404ab612d4",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "coef_v11_equ1=0.6397438 = coef_v11_equ2=0.6397438",
+    "coef_v21_equ1=-0.7731685771518828"
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
